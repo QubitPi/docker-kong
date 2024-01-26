@@ -51,7 +51,7 @@ pointing to the latest Kong code, the process can be semi-automated as follows:
 Not semi-automated yet. Note that minor releases are more likely to require more
 extensive changes to the Dockerfiles.
 
-## docker-kong Release Definition
+# Release Definition
 
 [![Screwdriver CD badge][Screwdriver CD badge]][Screwdriver CD url]
 [![HashiCorp Packer badge][HashiCorp Packer badge]][HashiCorp Packer url]
